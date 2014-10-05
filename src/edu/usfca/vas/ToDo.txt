@@ -1,0 +1,24 @@
+
+*** CheckList ***
+
+- check update manager properties in string.properties
+- update manager xml file online
+- run unit tests
+
+*** ToDo ***
+
+- help menu item is now handled by XJApplication
+
+- preferences: horizontal space when adding multiple operation from a pattern
+- button continue next to run in the TM/FA ?
+
+- localization in French
+- comments per machine
+- align to grid
+- make alignements between objects
+
+*** Windows/Linux
+
+- copy image doesn't works
+
+
